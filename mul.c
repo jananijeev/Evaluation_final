@@ -1,6 +1,6 @@
 #include<stdio.h> 
 #include<conio.h> 
-void main() 
+void main())
 { 
 int one, two, multiply; 
 printf("Enter first number - "); 
