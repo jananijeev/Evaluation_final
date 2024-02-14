@@ -2,11 +2,11 @@
 #include<conio.h> 
 void main()
 { 
-int one, two, multiply; 
+int on, tw, multiply; 
 printf("Enter first number - "); 
-scanf("%d",&one); 
+scanf("%d",&on); 
 printf("Enter second number - "); 
-scanf("%d",&two); 
+scanf("%d",&tw); 
 multiply = one * two; 
 printf("The multiplication of numbers %d and %d is %d",one,two,multiply); 
 getch(); 
