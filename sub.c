@@ -1,10 +1,9 @@
-
 #include<stdio.h>
 #include<conio.h>
 
 void main(){
 
-int one, two, sub;
+int on, tw, sub;
 
 printf("Enter first number - ");
 
