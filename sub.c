@@ -4,17 +4,17 @@
 
 void main(){
 
-int one, two, sub;
+int on, tw, sub;
 
 printf("Enter first number - ");
 
-scanf("%d",&one);
+scanf("%d",&on);
 
 printf("Enter second number - ");
 
-scanf("%d",&two);
+scanf("%d",&tw);
 
-sub = one - two;
+sub = on - tw;
 
 printf("The subtraction of numbers %d and %d is %d",one,two,sub);
 
