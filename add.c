@@ -9,7 +9,7 @@ int main()
     scanf("%d", &num1);
     
     printf("Enter the second number: ");
-    scanf("%d", &num2)
+    scanf("%d", &num2);
     
     sum = num1 + num2;
     
